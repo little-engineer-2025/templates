@@ -1,0 +1,10 @@
+# Ignore by default
+**/*
+
+!.gitignore
+!.dockerignore
+!Cargo.toml
+!Cargo.lock
+!LICENSE
+!README.md
+!src

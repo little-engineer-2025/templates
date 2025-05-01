@@ -1,0 +1,7 @@
+[package]
+# TODO Update the name of your package
+name = "rust-application-dev"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

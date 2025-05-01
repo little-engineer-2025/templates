@@ -1,0 +1,13 @@
+# Ignore by default
+**/*
+
+!.gitignore
+!.dockerignore
+!Dockerfile
+!Makefile
+!Cargo.toml
+!Cargo.lock
+!LICENSE
+!README.md
+!toolbox.sh
+!src
