@@ -1,0 +1,18 @@
+**/*
+
+# TODO Update according to your module name
+!/hello_world
+!/test
+/**/__pycache__
+!/docs
+!/docs/**/*
+
+!/LICENSE
+!/README.md
+!/Makefile
+!/.gitignore
+!/.dockerignore
+!/pyproject.toml
+/.venv
+/.env
+/.envrc
